@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "En8n7mdJEugMXuUvHSKxCsfrqXbYX2qqtUBiMI1sxo38RhNomjtCf47FZzHssymLzCWFcFCmMSperC6iodxIFA==",
+  "success": true,
+  "projectFilePath": "D:\\Simplelearn_assignments\\bank\\BankProject\\BankProject\\BankProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
